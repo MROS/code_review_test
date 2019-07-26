@@ -8,4 +8,4 @@
 - 沒有人贊同的時候無法 merge
 - 可以標註 WIP (work in progress)
 - 多個審查者只要一個 reject ，就無法 merge
-- hihihi
+- github 本身就還行
